@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Miso Choi's Blog
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: 컴퓨터비전 논문정리 및 코드분석
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
